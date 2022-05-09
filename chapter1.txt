@@ -1,2 +1,2 @@
 This is another crappy story to learn more about github.
-But this is it edited in anoter branch - 'experimental'
+But this is it edited in another branch - 'experimental'
